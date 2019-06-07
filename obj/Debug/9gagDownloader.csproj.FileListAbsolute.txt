@@ -1,0 +1,14 @@
+C:\Users\Theo\Source\Repos\9gagDownloader\bin\Debug\9gagDownloader.exe.config
+C:\Users\Theo\Source\Repos\9gagDownloader\bin\Debug\9gagDownloader.exe
+C:\Users\Theo\Source\Repos\9gagDownloader\bin\Debug\9gagDownloader.pdb
+C:\Users\Theo\Source\Repos\9gagDownloader\obj\Debug\9gagDownloader.csprojAssemblyReference.cache
+C:\Users\Theo\Source\Repos\9gagDownloader\obj\Debug\_9gagDownloader.Downloader.resources
+C:\Users\Theo\Source\Repos\9gagDownloader\obj\Debug\_9gagDownloader.Properties.Resources.resources
+C:\Users\Theo\Source\Repos\9gagDownloader\obj\Debug\9gagDownloader.csproj.GenerateResource.cache
+C:\Users\Theo\Source\Repos\9gagDownloader\obj\Debug\9gagDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Source\Repos\9gagDownloader\obj\Debug\9gagDownloader.exe
+C:\Users\Theo\Source\Repos\9gagDownloader\obj\Debug\9gagDownloader.pdb
+C:\Users\Theo\Source\Repos\9gagDownloader\bin\Debug\NLog.config
+C:\Users\Theo\Source\Repos\9gagDownloader\bin\Debug\NLog.dll
+C:\Users\Theo\Source\Repos\9gagDownloader\bin\Debug\NLog.xml
+C:\Users\Theo\Source\Repos\9gagDownloader\obj\Debug\9gagDownloader.csproj.CopyComplete

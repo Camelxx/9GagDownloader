@@ -1,0 +1,15 @@
+1|2019-06-07 09:15:44.8680|Error|Image Download Failed !...
+ |237ce1ddd5e14c998971c0f705014db1|_9gagDownloader.Downloader.Report(C:\Users\Theo\Source\Repos\9gagDownloader\Form1.cs:148)
+ |[Void OnDownloadFileCompleted(System.ComponentModel.AsyncCompletedEventArgs)] => [Void ImageFileDownloadComp(System.Object, System.ComponentModel.AsyncCompletedEventArgs)] => [Void Report(Boolean, System.String)]
+2|2019-06-07 09:16:55.6611|Error|Image Download Failed !...
+ |751c18abee3d4a70bec92c4b3e2e88a2|_9gagDownloader.Downloader.Report
+ |[Void OnDownloadFileCompleted(System.ComponentModel.AsyncCompletedEventArgs)] => [Void ImageFileDownloadComp(System.Object, System.ComponentModel.AsyncCompletedEventArgs)] => [Void Report(Boolean, System.String)]
+1|2019-06-07 09:20:10.0706|Error|Image Download Failed !...
+ |4a6a583fac054f859d09d3b251e20f8e|_9gagDownloader.Downloader.Report(C:\Users\Theo\Source\Repos\9gagDownloader\Form1.cs:148)
+ |[Void OnDownloadFileCompleted(System.ComponentModel.AsyncCompletedEventArgs)] => [Void ImageFileDownloadComp(System.Object, System.ComponentModel.AsyncCompletedEventArgs)] => [Void Report(Boolean, System.String)]
+1|2019-06-07 09:26:09.9165|Error|Video File Complete !..
+ |4d8d4ee7b1b74983b6763af63b27c8a9|_9gagDownloader.Downloader.Report
+ |[Void OnDownloadFileCompleted(System.ComponentModel.AsyncCompletedEventArgs)] => [Void VideoFileDownloadComp(System.Object, System.ComponentModel.AsyncCompletedEventArgs)] => [Void Report(Boolean, System.String)]
+2|2019-06-07 09:26:36.5364|Error|Video File Complete !..
+ |6b8152c800564e9986e63069cfa444ef|_9gagDownloader.Downloader.Report
+ |[Void OnDownloadFileCompleted(System.ComponentModel.AsyncCompletedEventArgs)] => [Void VideoFileDownloadComp(System.Object, System.ComponentModel.AsyncCompletedEventArgs)] => [Void Report(Boolean, System.String)]
